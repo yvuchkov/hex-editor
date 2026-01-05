@@ -2,8 +2,8 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'KUR ZA VAS SAMO AZ',
-  description: 'KUR ZA VAS SAMO AZ',
+  title: 'Hex editor',
+  description: 'Hex editor',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
